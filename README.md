@@ -97,6 +97,8 @@ confusion matrix - prediction
 
 1\. Landing Page:
 
+!["Landing Page"](Landing_Page.png)
+
 2\. Services:
 \* Potato Disease Detector: The potato disease detector is
 a machine learning model that uses a deep learning algorithm to detect
