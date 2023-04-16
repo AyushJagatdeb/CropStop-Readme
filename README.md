@@ -107,6 +107,7 @@ identifies symptoms such as discoloration or unusual growth patterns,
 and continually updates and refines its accuracy with more images. This
 tool helps farmers and researchers take action to prevent further damage
 or the spread of disease.
+!["Price"](Crop Price Predictor.png)
 
 \* Crop Price Predictor: Crop price predictor is a machine learning
 model that helps farmers and traders make informed decisions about
