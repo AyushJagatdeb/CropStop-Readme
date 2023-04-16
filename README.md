@@ -107,12 +107,13 @@ identifies symptoms such as discoloration or unusual growth patterns,
 and continually updates and refines its accuracy with more images. This
 tool helps farmers and researchers take action to prevent further damage
 or the spread of disease.
-!["Price"](Crop_Price_Predictor.png)
+!["Potato"](Potato_Disease_Detection.png)
 
 \* Crop Price Predictor: Crop price predictor is a machine learning
 model that helps farmers and traders make informed decisions about
 buying and selling crops based on accurate insights about specific
 regions and markets.
+!["Price"](Crop_Price_Predictor.png)
 
 \* Crop Recommender: Get ready to meet your new agricultural advisor -
 the crop recommender! Using n, p, k values, temperature, humidity, pH,
@@ -121,6 +122,7 @@ most likely to grow and thrive in your area. With its help, you can
 optimize yields, increase profits, and promote sustainable agriculture
 practices. So, say goodbye to guesswork and hello to bountiful harvests
 with the crop recommender!
+!["Recommender"](Crop_Recommender.png)
 
 3\. News/ Latest Innovations Page: Your go-to destination for all the
 latest updates and advancements in the world of agriculture.
@@ -128,6 +130,7 @@ latest updates and advancements in the world of agriculture.
 It scours news outlets and uses the news API to bring you the most
 relevant and up-to-date information on everything from new crop
 technologies to emerging trends in sustainable farming practices.
+!["News"](News_Page.png)
 
 ## Scalability:
 \* Crop Yield Predictor: The crop yield model will leverage
