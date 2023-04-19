@@ -1,6 +1,5 @@
 # CropStop
 
-
 ## Problem Theme: AgroTech
 
 ## Problem Statement:
