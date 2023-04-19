@@ -161,7 +161,7 @@ users can use the platform with confidence, knowing that their past
 activities and data are stored safely and securely.
 
 
-## Cotributers:
+## Contributers:
 Pulkit Sinha 
 
 Jayadip Sahoo 
