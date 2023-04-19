@@ -1,13 +1,5 @@
 # CropStop
 
-## Team Members:
-Pulkit Sinha 
-
-Jayadip Sahoo 
-
-Abhikalp Srivastava 
-
-Ayush Jagatdeb
 
 ## Problem Theme: AgroTech
 
@@ -168,3 +160,15 @@ between our webpage and machine learning models to prevent data breaches
 and unauthorized access will be maintained. This will ensure that our
 users can use the platform with confidence, knowing that their past
 activities and data are stored safely and securely.
+
+
+## Comtributers:
+Pulkit Sinha 
+
+Jayadip Sahoo 
+
+Abhikalp Srivastava 
+
+Ayush Jagatdeb
+
+You are invited to participate in the development of this website project by making contributions. To do so, you can fork the project, make the desired changes, and then submit a pull request. Once you have completed these steps, you are ready to get started.
