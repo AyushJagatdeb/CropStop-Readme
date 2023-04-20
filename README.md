@@ -1,5 +1,16 @@
 # CropStop
 
+
+## Contributers:
+Pulkit Sinha 
+
+Jayadip Sahoo 
+
+Abhikalp Srivastava 
+
+Ayush Jagatdeb
+
+
 ## Problem Theme: AgroTech
 
 ## Problem Statement:
@@ -161,13 +172,6 @@ users can use the platform with confidence, knowing that their past
 activities and data are stored safely and securely.
 
 
-## Contributers:
-Pulkit Sinha 
-
-Jayadip Sahoo 
-
-Abhikalp Srivastava 
-
-Ayush Jagatdeb
+## Contributions
 
 You are invited to participate in the development of this website project by making contributions. To do so, you can fork the project, make the desired changes, and then submit a pull request. Once you have completed these steps, you are ready to get started.
